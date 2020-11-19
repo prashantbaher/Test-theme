@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://prashantbaher.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  favicon: 'static/img/logo.png',
+  favicon: 'img/logo.png',
   organizationName: 'prashantbaher', // Usually your GitHub org/user name.
   projectName: 'Test-theme', // Usually your repo name.
   themeConfig: {
